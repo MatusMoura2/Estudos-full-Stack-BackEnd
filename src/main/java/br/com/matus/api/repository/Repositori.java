@@ -7,5 +7,6 @@ import br.com.matus.api.model.Client;
 
 @Repository
 public interface Repositori extends CrudRepository<Client, Long>{
-
+	
+	
 }
